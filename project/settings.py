@@ -1,3 +1,4 @@
+# This is john's code
 """
 Django settings for project project.
 
